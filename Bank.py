@@ -2,6 +2,7 @@ import os as o
 import time as t
 from datetime import datetime as dt
 from colorama import Fore, Back, Style
+#update
 
 class Bank:
     def __init__(self):
